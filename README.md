@@ -7,8 +7,8 @@
 
 
 
-- 🔭 About Myself
-**Advanced deep learning researcher and Ph.D. candidate at IIT Ropar, specializing in heterogeneous medical data—including medical images,
+ 🔭 About Myself
+- **Advanced deep learning researcher and Ph.D. candidate at IIT Ropar, specializing in heterogeneous medical data—including medical images,
 multi‑omics, electronic health records, and time‑series—to develop robust, efficient, and trustworthy AI‑driven healthcare solutions. My exper‑
 tise lies in multimodal fusion learning, adversarial robustness, and the design of end‑to‑end neural architectures optimized for computational
 efficiency, performance, and defense against adversarial attacks. With a strong publication record in top‑tier venues, my research is driven by a
