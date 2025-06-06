@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misti1203&label=Profile%20views&color=0e75b6&style=flat" alt="misti1203" /> </p>
 
-<p align="left"> <a href="https://twitter.com/misti1203" target="blank"><img src="https://img.shields.io/twitter/followmisti1203?logo=twitter&style=for-the-badge" alt="misti1203" /></a> </p>
+
 
 - 🔭 About Myself **Advanced deep learning researcher and Ph.D. candidate at IIT Ropar, specializing in heterogeneous medical data—including medical images,
 multi‑omics, electronic health records, and time‑series—to develop robust, efficient, and trustworthy AI‑driven healthcare solutions. My exper‑
