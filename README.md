@@ -22,9 +22,9 @@ mission to advance reliable decision‑support systems for healthcare, particula
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manish_genai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manish_genai" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/joy-dhar-42930a248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-genai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish_genai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_genai" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
