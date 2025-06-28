@@ -9,13 +9,11 @@
 
  🔭 About Myself
 - **Advanced deep learning researcher and Ph.D. candidate at IIT Ropar, specializing in heterogeneous medical data—including medical images,
-multi‑omics, electronic health records, and time‑series—to develop robust, efficient, and trustworthy AI‑driven healthcare solutions. My expertise lies in multimodal fusion learning, adversarial robustness, and the design of end‑to‑end neural architectures optimized for computational
-efficiency, performance, and defense against adversarial attacks. With a strong publication record in top‑tier venues, my research is driven by a
-mission to advance reliable decision‑support systems for healthcare, particularly in data‑scarce and resource‑constrained clinical environments.**
+multi‑omics, electronic health records, and time‑series—to develop robust, effective, efficient, and trustworthy AI‑driven healthcare solutions. My expertise lies in designing novel approaches for multimodal fusion, adversarial robustness, generative modeling, attention mechanisms, ensemble learning, and encoder–decoder architectures, as well as in developing end-to-end neural systems optimized for computational efficiency, performance, and defense against adversarial attacks. With a strong publication record in top‑tier venues, my research is driven by a mission to advance reliable decision‑support systems for healthcare, particularly in data‑scarce and resource‑constrained clinical environments.**
 
-- 🌱 I’m currently learning **LLMs Agents, RAG pipelines, Multimodal Learning, GNNs for Finance and Healthcare, LLM Inference**
+- 🌱 I’m currently learning **VLP Models, LLMs Agents, RAG Pipelines, Multimodal Fusion Learning, GNNs for Finance and Healthcare, LLM Inference**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Data Science, Large Language Models, Natural Language Processing**
+- 💬 Ask me about **Deep Learning, Machine Learning, Visula-Language Models, Data Science, Large Language Models, Natural Language Processing**
 
 - 📫 How to reach me **joy.22csz0003@iitrpr.ac.in**
 
