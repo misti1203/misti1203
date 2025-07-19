@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/joy-dhar-42930a248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-genai" height="30" width="40" /></a>
-<a href="(https://scholar.google.com/citations?user=Rc6ezD0AAAAJ&hl=en)" target="blank"><img align="center"
+<a href="https://scholar.google.com/citations?user=Rc6ezD0AAAAJ&hl=en" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 
