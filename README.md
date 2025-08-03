@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=misti1203&show_icons=true&locale=en" alt="misti1203" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=misti1203&" alt="misti1203" /></p>
+
+[![Matrix SVG](code/matrix.svg)](code/matrix.svg)
