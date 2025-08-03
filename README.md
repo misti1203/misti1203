@@ -35,6 +35,16 @@
  <img width="1000" src="code/snake.svg" alt="snake"/>
 </p>
 
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="[https://github.com/misti1203]">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=misti1203&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misti1203&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=misti1203&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misti1203&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misti1203&theme=2077" height="180em" />
+</div>
+
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=misti1203&show_icons=true&locale=en&layout=compact" alt="misti1203" /></p>
 
