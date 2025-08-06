@@ -47,9 +47,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=misti1203&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+
 
 
 <p align="center">
