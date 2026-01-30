@@ -57,3 +57,15 @@
 
 
 [![Matrix SVG](code/matrix.svg)](code/matrix.svg)
+---
+
+<h3 align="center" style="color:white;">
+  🚀 Creating, Automating, and Innovating.
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+
+<p align="center">
+  <i>&copy; <a href="https://github.com/misti1203">Joy Dhar</a> 2026 </i><br>
+  <kbd>Thanks for visiting 🙂</kbd>
+</p>
