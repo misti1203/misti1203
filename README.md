@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **VLP Models, LLMs Agents, RAG Pipelines, Multimodal Fusion Learning, GNNs for Finance and Healthcare, LLM Inference**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Visual-Language Models, Data Science, Large Language Models, Natural Language Processing, ADVERSARIAL ROBUSTNESS, ADVERSARIAL DEFENCE**
+- 💬 Ask me about **Deep Learning, Machine Learning, Visual-Language Models, Data Science, Large Language Models, Natural Language Processing, Adversarial Robustness, Adversarial Defence**
 
 - 📫 How to reach me **joy.22csz0003@iitrpr.ac.in**
 
